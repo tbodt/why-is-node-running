@@ -1,5 +1,5 @@
 {
-  "name": "why-is-node-running",
+  "name": "why-is-node-running-tbodt",
   "version": "2.0.2",
   "description": "Node is running but you don't know why? why-is-node-running is here to help you.",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/why-is-node-running.git"
+    "url": "https://github.com/tbodt/why-is-node-running.git"
   },
   "keywords": [
     "debug",
@@ -28,11 +28,15 @@
     {
       "name": "Jon Peck",
       "email": "jpeck@fluxsauce.com"
+    },
+    {
+      "name": "Theodore Dubois",
+      "email": "tblodt@icloud.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/why-is-node-running/issues"
+    "url": "https://github.com/tbodt/why-is-node-running/issues"
   },
-  "homepage": "https://github.com/mafintosh/why-is-node-running"
+  "homepage": "https://github.com/tbodt/why-is-node-running"
 }
